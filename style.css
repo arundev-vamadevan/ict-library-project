@@ -1,0 +1,191 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  
+}
+
+.jumbotron {
+    background-image: url(./images/lib4.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    
+  }
+
+.jumbotron #fa1{
+    font-size: 60px;
+    color: cornflowerblue;
+    padding-left: 140px;
+    
+    
+}
+
+.lead{
+    color:yellow;
+}
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+  }
+
+
+#section-about-us {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/current-projects-1.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
+  
+  }
+  
+  
+  #section-about-us a {
+    text-decoration: none;
+    color: #CED0CE;
+  }
+  
+  #section-about-us .card-header {
+    background-color: #F15025;
+  }
+
+  #section-about-us #about {
+    font-size: 65px;
+    color: #F15025;
+  }
+
+
+#section-services{
+    background-color: #f5f3f5;
+    padding-top:20px;
+    padding-bottom: 20px;
+  
+}
+#section-services h2{
+    padding-top: 40px;
+    padding-bottom: 30px;
+} 
+#section-services .img-fluid{
+    padding-bottom: 30px;
+}
+#section-services h5{
+    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: black;
+}
+#section-services .col-md-4{
+    background-color: white;
+    
+}
+
+#section-collection{
+    background-color: white;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+#section-collection h2{
+    padding-top: 40px;
+    padding-bottom: 30px;
+} 
+#section-collection .img-fluid{
+    padding-bottom: 30px;
+}
+#section-collection h5{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: black;
+}
+#section-collection .col-md-4{
+    background-color:#f5f3f5;
+ }
+
+
+#section-features #head1{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+} 
+
+#section-pricing #head2{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#section-reviews {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  url(./images/carousel1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #f5f3f5;
+}
+
+#section-reviews .fa-quote-left {
+  font-size: 40px;
+  color: #f15025;
+}
+ 
+#section-reviews .fa-comments{
+  font-size: 40px;
+  color: #f15025;
+}
+
+
+#section-reviews img {
+  max-width: 250px;
+}
+
+#section-reviews .blockquote-footer{
+ padding-bottom: 40px;
+  padding-left: 300px; 
+ 
+}
+
+#section-newsletter{
+  margin-top: 100px;
+  padding-top: 0;
+}
+
+#navbarNav #my{
+  padding-left: 300px;
+  
+}
+
+#navbarNav #my1{
+  color: white;
+  
+}
+
+.row #catalog{
+  margin-left: 20pt;
+  padding-left: 100px;
+  margin-right: 20pt;
+  
+}
+
+.row #keyword{
+  margin-left: 20pt;
+  padding-left: 100px;
+  margin-right: 20pt;
+  
+}
+
+.row .form-control{
+  width: 50;
+}
+
+#navbarNav .fa-home{
+  font-size: 30px;
+}
+
+.jumbotron #btgroup{
+  padding-left: 400px;
+}
+
+.jumbotron #btg1{
+  margin-right: 20pt;
+}
